@@ -1,3 +1,3 @@
-writing discord, telegram bots / websites 
-python, javascript 
+writing discord, telegram bots / websites
+ 
 
